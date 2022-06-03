@@ -8,4 +8,5 @@ package com.msb.pojo;
  */
 public class Person {
     private Integer age;
+    private String name;
 }
